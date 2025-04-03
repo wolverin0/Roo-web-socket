@@ -1,0 +1,5 @@
+**Template:**
+- **Project/Resource:** Roo Code <> Telegram Bridge: Allows Roo Code tasks running in VS Code to send notifications to a user via Telegram and receive their responses back to continue the task. Uses Python and a file-based IPC mechanism.
+- **What I Need:** Feedback on the current Python implementation (robustness, error handling, alternative IPC ideas), testing assistance (especially on macOS/Linux), suggestions for potential deeper integration with Roo Code's core extension if feasible, and general thoughts on usability.
+- **What I Offer:** A functional proof-of-concept with Python scripts (`ipc_communication.py`, `telegram_notification_system.py`, `roo_code_integration.py`, `run_bot.py`), a dedicated GitHub repository (`https://github.com/wolverin0/Roo-web-socket.git`) with setup instructions in the README, and my time to collaborate on improvements.
+- **Next Steps:** Review the code and README at [https://github.com/wolverin0/Roo-web-socket.git](https://github.com/wolverin0/Roo-web-socket.git). Feel free to open issues/PRs on GitHub or reply here to discuss feedback, testing, or collaboration ideas.
