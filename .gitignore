@@ -1,0 +1,46 @@
+dist
+out
+out-*
+node_modules
+coverage/
+
+.DS_Store
+
+# Builds
+bin/
+roo-cline-*.vsix
+
+# Local prompts and rules
+/local-prompts
+
+# Test environment
+.test_env
+.vscode-test/
+
+# Docs
+docs/_site/
+
+# Dotenv
+.env
+.env.*
+!.env.*.sample
+
+
+#Local lint config
+.eslintrc.local.json
+
+#Logging
+logs
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+venv/
+.venv/
+
+# Telegram Bot Bridge specific
+config.py
+registrations.json
